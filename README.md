@@ -1,4 +1,4 @@
-<h1> Assignment Description <h1>
+<h1> Assignment Description </h1>
 
 An employee class was added with the specifications provided by Maria Boyle.
 I have mentioned a few things that need to be changed for future versions:
