@@ -16,7 +16,7 @@ from the super class had to be overwritten to ensure that employees can not be y
 
 Some extra test cases were provided to ensure most edge cases are covered. 
 
-* IntelliJ was used instead of Eclipse, using Java 11. The project was also renamed to bank (former: Software-Implementation). *
+**IntelliJ was used instead of Eclipse, using Java 11. The project was also renamed to bank (former: Software-Implementation).**
 
 
 
